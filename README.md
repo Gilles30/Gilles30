@@ -37,9 +37,9 @@ In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️)
     <img src="./img/gitlab-original.svg" alt="gitlab" width="30" height="30"/>
     <img src="./img/docker-original.svg" alt="docker" width="30" height="30"/>
     <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
-    <p align="center">
+<!--     <p align="center">
       <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="100" height="100">
-    </p>
+    </p> -->
   </row>
 </p>
 
@@ -70,9 +70,9 @@ Would you like to meet me?📫
     <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" />
   </a> 
   
-  <a>
+<!--   <a>
     <img width = "340px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&layout=compact&theme=material-palenight" />
-  </a>
+  </a> -->
 </div> 
 
 
