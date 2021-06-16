@@ -67,7 +67,7 @@ Would you like to meet me?📫
 <div id="minhaDiv">
   
   <a>
-    <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=Gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" />
+    <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=Gilles30&theme=omni&show_icons=true&include_all_commits=true&count_private=issues" />
   </a> 
   
   <a>
