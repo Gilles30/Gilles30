@@ -67,11 +67,12 @@ Would you like to meet me?📫
 <div id="minhaDiv">
   
   <a>
-    <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" />
+    <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=Gilles30&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=issues" />
   </a> 
   
   <a>
-    <img width = "340px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&theme=material-palenight" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact)](https://github.com/Gilles30/github-readme-stats)
+
   </a>
 </div> 
 
