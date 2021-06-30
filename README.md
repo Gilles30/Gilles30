@@ -16,7 +16,6 @@ In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️)
 </p>
  
  
- 
 <p>
   <row>
     <img src="./img/react-original.svg" alt="react" width="30" height="30"/>
