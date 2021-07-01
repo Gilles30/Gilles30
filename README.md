@@ -9,6 +9,7 @@
 <p>
 <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
 
+  
 
 My name is Lorison Gilles🚀, from Brazil (🇧🇷). I work with front-end / full-stack development since 2019 working with frela and personal projects, currently I am Dev Full-Stack. in the consultancy sector in systems development and technology implementation at Avanade 💻🖥🖱 💡, with this new challenge I try to develop and always learn, making the most of the knowledge of my mentors 🏪🏬. I am passionate about development, the best web technologies 🖥️💻 and mobile 📱 and good coffee☕, so I created some projects as a front-end [repositories] (https://github.com/Gilles30?tab=repositories), learn to produce content to help other developers💬
 
