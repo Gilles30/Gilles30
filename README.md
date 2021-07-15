@@ -71,7 +71,7 @@ Would you like to meet me?📫
   </a> 
   
   <a>
-     <img width = "250px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&theme=omni&layout=compact)](https://github.com/gilles30/github-readme-stats"/>  
+     <img width = "250px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&theme=omni&layout=compact)](https://github.com/Gilles30/github-readme-stats"/>  
   </a>
 </div> 
 
